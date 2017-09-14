@@ -1,0 +1,43 @@
+current directory: /home/pramata/dream/vendor/bundle/gems/therubyracer-0.12.3/ext/v8
+/usr/share/rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170913-3795-1wuqrf0.rb extconf.rb
+checking for main() in -lpthread... yes
+creating Makefile
+
+current directory: /home/pramata/dream/vendor/bundle/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR=" clean
+
+current directory: /home/pramata/dream/vendor/bundle/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR="
+compiling array.cc
+compiling constants.cc
+compiling signature.cc
+compiling v8.cc
+compiling script.cc
+compiling locker.cc
+compiling stack.cc
+compiling heap.cc
+compiling gc.cc
+compiling template.cc
+compiling handles.cc
+compiling invocation.cc
+compiling function.cc
+compiling value.cc
+compiling date.cc
+compiling rr.cc
+compiling string.cc
+compiling message.cc
+compiling trycatch.cc
+compiling exception.cc
+compiling object.cc
+compiling context.cc
+compiling init.cc
+compiling constraints.cc
+compiling external.cc
+compiling backref.cc
+compiling primitive.cc
+compiling accessor.cc
+linking shared-object v8/init.so
+
+current directory: /home/pramata/dream/vendor/bundle/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 init.so ./.gem.20170913-3795-1il2gaa/v8

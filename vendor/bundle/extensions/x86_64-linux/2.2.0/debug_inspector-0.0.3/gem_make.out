@@ -1,0 +1,15 @@
+current directory: /home/pramata/dream/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/usr/share/rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170913-18194-1sa9ul2.rb extconf.rb
+creating Makefile
+
+current directory: /home/pramata/dream/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/pramata/dream/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/pramata/dream/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20170913-18194-i9qdih
